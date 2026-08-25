@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karthik6351.github.io/Dr.Solmanraj_portfolio/sitemap.xml
