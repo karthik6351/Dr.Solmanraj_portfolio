@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://karthik6351.github.io/Dr.Solmanraj_portfolio/sitemap.xml
+Sitemap: https://drsolmanraj-portfolio.vercel.app/sitemap.xml
